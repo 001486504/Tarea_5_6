@@ -1,0 +1,101 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0-ios
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MiAppCrud
+build_property.ProjectDir = E:\Tarea_5y6\MiAppCrud\MiAppCrud\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[E:/Tarea_5y6/MiAppCrud/MiAppCrud/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MiAppCrud.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[E:/Tarea_5y6/MiAppCrud/MiAppCrud/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MiAppCrud.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[E:/Tarea_5y6/MiAppCrud/MiAppCrud/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MiAppCrud.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[E:/Tarea_5y6/MiAppCrud/MiAppCrud/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MiAppCrud.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[E:/Tarea_5y6/MiAppCrud/MiAppCrud/Views/CategoriaEditPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MiAppCrud.Views.CategoriaEditPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\CategoriaEditPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\CategoriaEditPage.xaml
+
+[E:/Tarea_5y6/MiAppCrud/MiAppCrud/Views/CategoriaListPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MiAppCrud.Views.CategoriaListPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\CategoriaListPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\CategoriaListPage.xaml
+
+[E:/Tarea_5y6/MiAppCrud/MiAppCrud/Views/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MiAppCrud.Views.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\MainPage.xaml
+
+[E:/Tarea_5y6/MiAppCrud/MiAppCrud/Views/OrdenEditPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MiAppCrud.Views.OrdenEditPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\OrdenEditPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\OrdenEditPage.xaml
+
+[E:/Tarea_5y6/MiAppCrud/MiAppCrud/Views/OrdenListPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MiAppCrud.Views.OrdenListPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\OrdenListPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\OrdenListPage.xaml
+
+[E:/Tarea_5y6/MiAppCrud/MiAppCrud/Views/PersonaPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MiAppCrud.Views.PersonaPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\PersonaPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\PersonaPage.xaml
+
+[E:/Tarea_5y6/MiAppCrud/MiAppCrud/Views/ProductoEditPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MiAppCrud.Views.ProductoEditPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\ProductoEditPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\ProductoEditPage.xaml
+
+[E:/Tarea_5y6/MiAppCrud/MiAppCrud/Views/ProductoListPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MiAppCrud.Views.ProductoListPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\ProductoListPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\ProductoListPage.xaml
+
+[E:/Tarea_5y6/MiAppCrud/MiAppCrud/Views/ProveedorEditPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MiAppCrud.Views.ProveedorEditPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\ProveedorEditPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\ProveedorEditPage.xaml
+
+[E:/Tarea_5y6/MiAppCrud/MiAppCrud/Views/ProveedorListPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MiAppCrud.Views.ProveedorListPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\ProveedorListPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\ProveedorListPage.xaml

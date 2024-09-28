@@ -1,0 +1,683 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Tarea_5y6\\MiAppCrud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54EDF57B-65CA-4206-A1A3-6C06B6172435}|MiAppCrud\\MiAppCrud.csproj|e:\\tarea_5y6\\miappcrud\\miappcrud\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{54EDF57B-65CA-4206-A1A3-6C06B6172435}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EDF57B-65CA-4206-A1A3-6C06B6172435}|MiAppCrud\\MiAppCrud.csproj|e:\\tarea_5y6\\miappcrud\\miappcrud\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{54EDF57B-65CA-4206-A1A3-6C06B6172435}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EDF57B-65CA-4206-A1A3-6C06B6172435}|MiAppCrud\\MiAppCrud.csproj|e:\\tarea_5y6\\miappcrud\\miappcrud\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EDF57B-65CA-4206-A1A3-6C06B6172435}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EDF57B-65CA-4206-A1A3-6C06B6172435}|MiAppCrud\\MiAppCrud.csproj|e:\\tarea_5y6\\miappcrud\\miappcrud\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EDF57B-65CA-4206-A1A3-6C06B6172435}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EDF57B-65CA-4206-A1A3-6C06B6172435}|MiAppCrud\\MiAppCrud.csproj|e:\\tarea_5y6\\miappcrud\\miappcrud\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EDF57B-65CA-4206-A1A3-6C06B6172435}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EDF57B-65CA-4206-A1A3-6C06B6172435}|MiAppCrud\\MiAppCrud.csproj|e:\\tarea_5y6\\miappcrud\\miappcrud\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{54EDF57B-65CA-4206-A1A3-6C06B6172435}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EDF57B-65CA-4206-A1A3-6C06B6172435}|MiAppCrud\\MiAppCrud.csproj|e:\\tarea_5y6\\miappcrud\\miappcrud\\views\\productoeditpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{54EDF57B-65CA-4206-A1A3-6C06B6172435}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\views\\productoeditpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EDF57B-65CA-4206-A1A3-6C06B6172435}|MiAppCrud\\MiAppCrud.csproj|e:\\tarea_5y6\\miappcrud\\miappcrud\\views\\personapage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EDF57B-65CA-4206-A1A3-6C06B6172435}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\views\\personapage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EDF57B-65CA-4206-A1A3-6C06B6172435}|MiAppCrud\\MiAppCrud.csproj|e:\\tarea_5y6\\miappcrud\\miappcrud\\views\\personapage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{54EDF57B-65CA-4206-A1A3-6C06B6172435}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\views\\personapage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EDF57B-65CA-4206-A1A3-6C06B6172435}|MiAppCrud\\MiAppCrud.csproj|e:\\tarea_5y6\\miappcrud\\miappcrud\\services\\personaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EDF57B-65CA-4206-A1A3-6C06B6172435}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\services\\personaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EDF57B-65CA-4206-A1A3-6C06B6172435}|MiAppCrud\\MiAppCrud.csproj|e:\\tarea_5y6\\miappcrud\\miappcrud\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EDF57B-65CA-4206-A1A3-6C06B6172435}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EDF57B-65CA-4206-A1A3-6C06B6172435}|MiAppCrud\\MiAppCrud.csproj|e:\\tarea_5y6\\miappcrud\\miappcrud\\views\\proveedoreditpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EDF57B-65CA-4206-A1A3-6C06B6172435}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\views\\proveedoreditpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EDF57B-65CA-4206-A1A3-6C06B6172435}|MiAppCrud\\MiAppCrud.csproj|e:\\tarea_5y6\\miappcrud\\miappcrud\\views\\productolistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{54EDF57B-65CA-4206-A1A3-6C06B6172435}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\views\\productolistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EDF57B-65CA-4206-A1A3-6C06B6172435}|MiAppCrud\\MiAppCrud.csproj|e:\\tarea_5y6\\miappcrud\\miappcrud\\views\\proveedoreditpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{54EDF57B-65CA-4206-A1A3-6C06B6172435}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\views\\proveedoreditpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EDF57B-65CA-4206-A1A3-6C06B6172435}|MiAppCrud\\MiAppCrud.csproj|e:\\tarea_5y6\\miappcrud\\miappcrud\\views\\proveedorlistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{54EDF57B-65CA-4206-A1A3-6C06B6172435}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\views\\proveedorlistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EDF57B-65CA-4206-A1A3-6C06B6172435}|MiAppCrud\\MiAppCrud.csproj|e:\\tarea_5y6\\miappcrud\\miappcrud\\views\\productolistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EDF57B-65CA-4206-A1A3-6C06B6172435}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\views\\productolistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EDF57B-65CA-4206-A1A3-6C06B6172435}|MiAppCrud\\MiAppCrud.csproj|e:\\tarea_5y6\\miappcrud\\miappcrud\\views\\ordenlistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{54EDF57B-65CA-4206-A1A3-6C06B6172435}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\views\\ordenlistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EDF57B-65CA-4206-A1A3-6C06B6172435}|MiAppCrud\\MiAppCrud.csproj|e:\\tarea_5y6\\miappcrud\\miappcrud\\views\\categorialistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{54EDF57B-65CA-4206-A1A3-6C06B6172435}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\views\\categorialistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EDF57B-65CA-4206-A1A3-6C06B6172435}|MiAppCrud\\MiAppCrud.csproj|e:\\tarea_5y6\\miappcrud\\miappcrud\\models\\orden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EDF57B-65CA-4206-A1A3-6C06B6172435}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\models\\orden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EDF57B-65CA-4206-A1A3-6C06B6172435}|MiAppCrud\\MiAppCrud.csproj|e:\\tarea_5y6\\miappcrud\\miappcrud\\views\\ordeneditpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{54EDF57B-65CA-4206-A1A3-6C06B6172435}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\views\\ordeneditpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EDF57B-65CA-4206-A1A3-6C06B6172435}|MiAppCrud\\MiAppCrud.csproj|e:\\tarea_5y6\\miappcrud\\miappcrud\\views\\ordeneditpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EDF57B-65CA-4206-A1A3-6C06B6172435}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\views\\ordeneditpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EDF57B-65CA-4206-A1A3-6C06B6172435}|MiAppCrud\\MiAppCrud.csproj|e:\\tarea_5y6\\miappcrud\\miappcrud\\views\\productoeditpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EDF57B-65CA-4206-A1A3-6C06B6172435}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\views\\productoeditpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EDF57B-65CA-4206-A1A3-6C06B6172435}|MiAppCrud\\MiAppCrud.csproj|e:\\tarea_5y6\\miappcrud\\miappcrud\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EDF57B-65CA-4206-A1A3-6C06B6172435}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EDF57B-65CA-4206-A1A3-6C06B6172435}|MiAppCrud\\MiAppCrud.csproj|e:\\tarea_5y6\\miappcrud\\miappcrud\\models\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EDF57B-65CA-4206-A1A3-6C06B6172435}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\models\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EDF57B-65CA-4206-A1A3-6C06B6172435}|MiAppCrud\\MiAppCrud.csproj|e:\\tarea_5y6\\miappcrud\\miappcrud\\views\\ordenlistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EDF57B-65CA-4206-A1A3-6C06B6172435}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\views\\ordenlistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EDF57B-65CA-4206-A1A3-6C06B6172435}|MiAppCrud\\MiAppCrud.csproj|e:\\tarea_5y6\\miappcrud\\miappcrud\\views\\categorialistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EDF57B-65CA-4206-A1A3-6C06B6172435}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\views\\categorialistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EDF57B-65CA-4206-A1A3-6C06B6172435}|MiAppCrud\\MiAppCrud.csproj|e:\\tarea_5y6\\miappcrud\\miappcrud\\views\\proveedorlistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EDF57B-65CA-4206-A1A3-6C06B6172435}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\views\\proveedorlistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EDF57B-65CA-4206-A1A3-6C06B6172435}|MiAppCrud\\MiAppCrud.csproj|e:\\tarea_5y6\\miappcrud\\miappcrud\\controllers\\proveedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EDF57B-65CA-4206-A1A3-6C06B6172435}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\controllers\\proveedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EDF57B-65CA-4206-A1A3-6C06B6172435}|MiAppCrud\\MiAppCrud.csproj|e:\\tarea_5y6\\miappcrud\\miappcrud\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EDF57B-65CA-4206-A1A3-6C06B6172435}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EDF57B-65CA-4206-A1A3-6C06B6172435}|MiAppCrud\\MiAppCrud.csproj|e:\\tarea_5y6\\miappcrud\\miappcrud\\controllers\\ordencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EDF57B-65CA-4206-A1A3-6C06B6172435}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\controllers\\ordencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EDF57B-65CA-4206-A1A3-6C06B6172435}|MiAppCrud\\MiAppCrud.csproj|e:\\tarea_5y6\\miappcrud\\miappcrud\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EDF57B-65CA-4206-A1A3-6C06B6172435}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EDF57B-65CA-4206-A1A3-6C06B6172435}|MiAppCrud\\MiAppCrud.csproj|e:\\tarea_5y6\\miappcrud\\miappcrud\\services\\ordenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EDF57B-65CA-4206-A1A3-6C06B6172435}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\services\\ordenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EDF57B-65CA-4206-A1A3-6C06B6172435}|MiAppCrud\\MiAppCrud.csproj|e:\\tarea_5y6\\miappcrud\\miappcrud\\services\\proveedorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EDF57B-65CA-4206-A1A3-6C06B6172435}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\services\\proveedorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EDF57B-65CA-4206-A1A3-6C06B6172435}|MiAppCrud\\MiAppCrud.csproj|e:\\tarea_5y6\\miappcrud\\miappcrud\\services\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EDF57B-65CA-4206-A1A3-6C06B6172435}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\services\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EDF57B-65CA-4206-A1A3-6C06B6172435}|MiAppCrud\\MiAppCrud.csproj|e:\\tarea_5y6\\miappcrud\\miappcrud\\views\\categoriaeditpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EDF57B-65CA-4206-A1A3-6C06B6172435}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\views\\categoriaeditpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EDF57B-65CA-4206-A1A3-6C06B6172435}|MiAppCrud\\MiAppCrud.csproj|e:\\tarea_5y6\\miappcrud\\miappcrud\\views\\categoriaeditpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{54EDF57B-65CA-4206-A1A3-6C06B6172435}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\views\\categoriaeditpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EDF57B-65CA-4206-A1A3-6C06B6172435}|MiAppCrud\\MiAppCrud.csproj|e:\\tarea_5y6\\miappcrud\\miappcrud\\services\\categoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EDF57B-65CA-4206-A1A3-6C06B6172435}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\services\\categoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EDF57B-65CA-4206-A1A3-6C06B6172435}|MiAppCrud\\MiAppCrud.csproj|e:\\tarea_5y6\\miappcrud\\miappcrud\\services\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EDF57B-65CA-4206-A1A3-6C06B6172435}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\services\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EDF57B-65CA-4206-A1A3-6C06B6172435}|MiAppCrud\\MiAppCrud.csproj|e:\\tarea_5y6\\miappcrud\\miappcrud\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EDF57B-65CA-4206-A1A3-6C06B6172435}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "E:\\Tarea_5y6\\MiAppCrud\\MiAppCrud\\App.xaml.cs",
+              "RelativeDocumentMoniker": "MiAppCrud\\App.xaml.cs",
+              "ToolTip": "E:\\Tarea_5y6\\MiAppCrud\\MiAppCrud\\App.xaml.cs",
+              "RelativeToolTip": "MiAppCrud\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T17:29:17.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "E:\\Tarea_5y6\\MiAppCrud\\MiAppCrud\\Views\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MiAppCrud\\Views\\MainPage.xaml",
+              "ToolTip": "E:\\Tarea_5y6\\MiAppCrud\\MiAppCrud\\Views\\MainPage.xaml",
+              "RelativeToolTip": "MiAppCrud\\Views\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-27T20:35:22.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "E:\\Tarea_5y6\\MiAppCrud\\MiAppCrud\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "MiAppCrud\\AppShell.xaml.cs",
+              "ToolTip": "E:\\Tarea_5y6\\MiAppCrud\\MiAppCrud\\AppShell.xaml.cs",
+              "RelativeToolTip": "MiAppCrud\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T20:29:27.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "E:\\Tarea_5y6\\MiAppCrud\\MiAppCrud\\Views\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MiAppCrud\\Views\\MainPage.xaml.cs",
+              "ToolTip": "E:\\Tarea_5y6\\MiAppCrud\\MiAppCrud\\Views\\MainPage.xaml.cs",
+              "RelativeToolTip": "MiAppCrud\\Views\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T20:35:31.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "E:\\Tarea_5y6\\MiAppCrud\\MiAppCrud\\AppShell.xaml",
+              "RelativeDocumentMoniker": "MiAppCrud\\AppShell.xaml",
+              "ToolTip": "E:\\Tarea_5y6\\MiAppCrud\\MiAppCrud\\AppShell.xaml",
+              "RelativeToolTip": "MiAppCrud\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-27T20:29:30.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PersonaPage.xaml.cs",
+              "DocumentMoniker": "E:\\Tarea_5y6\\MiAppCrud\\MiAppCrud\\Views\\PersonaPage.xaml.cs",
+              "RelativeDocumentMoniker": "MiAppCrud\\Views\\PersonaPage.xaml.cs",
+              "ToolTip": "E:\\Tarea_5y6\\MiAppCrud\\MiAppCrud\\Views\\PersonaPage.xaml.cs",
+              "RelativeToolTip": "MiAppCrud\\Views\\PersonaPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T01:41:45.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "E:\\Tarea_5y6\\MiAppCrud\\MiAppCrud\\App.xaml",
+              "RelativeDocumentMoniker": "MiAppCrud\\App.xaml",
+              "ToolTip": "E:\\Tarea_5y6\\MiAppCrud\\MiAppCrud\\App.xaml",
+              "RelativeToolTip": "MiAppCrud\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-27T17:29:14.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductoEditPage.xaml",
+              "DocumentMoniker": "E:\\Tarea_5y6\\MiAppCrud\\MiAppCrud\\Views\\ProductoEditPage.xaml",
+              "RelativeDocumentMoniker": "MiAppCrud\\Views\\ProductoEditPage.xaml",
+              "ToolTip": "E:\\Tarea_5y6\\MiAppCrud\\MiAppCrud\\Views\\ProductoEditPage.xaml",
+              "RelativeToolTip": "MiAppCrud\\Views\\ProductoEditPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-27T17:09:19.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PersonaPage.xaml",
+              "DocumentMoniker": "E:\\Tarea_5y6\\MiAppCrud\\MiAppCrud\\Views\\PersonaPage.xaml",
+              "RelativeDocumentMoniker": "MiAppCrud\\Views\\PersonaPage.xaml",
+              "ToolTip": "E:\\Tarea_5y6\\MiAppCrud\\MiAppCrud\\Views\\PersonaPage.xaml",
+              "RelativeToolTip": "MiAppCrud\\Views\\PersonaPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-28T01:41:27.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "E:\\Tarea_5y6\\MiAppCrud\\MiAppCrud\\Models\\Persona.cs",
+              "RelativeDocumentMoniker": "MiAppCrud\\Models\\Persona.cs",
+              "ToolTip": "E:\\Tarea_5y6\\MiAppCrud\\MiAppCrud\\Models\\Persona.cs",
+              "RelativeToolTip": "MiAppCrud\\Models\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T01:37:33.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PersonaService.cs",
+              "DocumentMoniker": "E:\\Tarea_5y6\\MiAppCrud\\MiAppCrud\\Services\\PersonaService.cs",
+              "RelativeDocumentMoniker": "MiAppCrud\\Services\\PersonaService.cs",
+              "ToolTip": "E:\\Tarea_5y6\\MiAppCrud\\MiAppCrud\\Services\\PersonaService.cs",
+              "RelativeToolTip": "MiAppCrud\\Services\\PersonaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T01:37:55.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductoListPage.xaml",
+              "DocumentMoniker": "E:\\Tarea_5y6\\MiAppCrud\\MiAppCrud\\Views\\ProductoListPage.xaml",
+              "RelativeDocumentMoniker": "MiAppCrud\\Views\\ProductoListPage.xaml",
+              "ToolTip": "E:\\Tarea_5y6\\MiAppCrud\\MiAppCrud\\Views\\ProductoListPage.xaml",
+              "RelativeToolTip": "MiAppCrud\\Views\\ProductoListPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-27T17:11:13.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductoListPage.xaml.cs",
+              "DocumentMoniker": "E:\\Tarea_5y6\\MiAppCrud\\MiAppCrud\\Views\\ProductoListPage.xaml.cs",
+              "RelativeDocumentMoniker": "MiAppCrud\\Views\\ProductoListPage.xaml.cs",
+              "ToolTip": "E:\\Tarea_5y6\\MiAppCrud\\MiAppCrud\\Views\\ProductoListPage.xaml.cs",
+              "RelativeToolTip": "MiAppCrud\\Views\\ProductoListPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T17:15:23.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProveedorEditPage.xaml.cs",
+              "DocumentMoniker": "E:\\Tarea_5y6\\MiAppCrud\\MiAppCrud\\Views\\ProveedorEditPage.xaml.cs",
+              "RelativeDocumentMoniker": "MiAppCrud\\Views\\ProveedorEditPage.xaml.cs",
+              "ToolTip": "E:\\Tarea_5y6\\MiAppCrud\\MiAppCrud\\Views\\ProveedorEditPage.xaml.cs",
+              "RelativeToolTip": "MiAppCrud\\Views\\ProveedorEditPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T17:39:59.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProveedorListPage.xaml",
+              "DocumentMoniker": "E:\\Tarea_5y6\\MiAppCrud\\MiAppCrud\\Views\\ProveedorListPage.xaml",
+              "RelativeDocumentMoniker": "MiAppCrud\\Views\\ProveedorListPage.xaml",
+              "ToolTip": "E:\\Tarea_5y6\\MiAppCrud\\MiAppCrud\\Views\\ProveedorListPage.xaml",
+              "RelativeToolTip": "MiAppCrud\\Views\\ProveedorListPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-27T17:39:07.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProveedorEditPage.xaml",
+              "DocumentMoniker": "E:\\Tarea_5y6\\MiAppCrud\\MiAppCrud\\Views\\ProveedorEditPage.xaml",
+              "RelativeDocumentMoniker": "MiAppCrud\\Views\\ProveedorEditPage.xaml",
+              "ToolTip": "E:\\Tarea_5y6\\MiAppCrud\\MiAppCrud\\Views\\ProveedorEditPage.xaml",
+              "RelativeToolTip": "MiAppCrud\\Views\\ProveedorEditPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-27T17:39:47.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrdenListPage.xaml",
+              "DocumentMoniker": "E:\\Tarea_5y6\\MiAppCrud\\MiAppCrud\\Views\\OrdenListPage.xaml",
+              "RelativeDocumentMoniker": "MiAppCrud\\Views\\OrdenListPage.xaml",
+              "ToolTip": "E:\\Tarea_5y6\\MiAppCrud\\MiAppCrud\\Views\\OrdenListPage.xaml",
+              "RelativeToolTip": "MiAppCrud\\Views\\OrdenListPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-27T17:40:48.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OrdenEditPage.xaml",
+              "DocumentMoniker": "E:\\Tarea_5y6\\MiAppCrud\\MiAppCrud\\Views\\OrdenEditPage.xaml",
+              "RelativeDocumentMoniker": "MiAppCrud\\Views\\OrdenEditPage.xaml",
+              "ToolTip": "E:\\Tarea_5y6\\MiAppCrud\\MiAppCrud\\Views\\OrdenEditPage.xaml",
+              "RelativeToolTip": "MiAppCrud\\Views\\OrdenEditPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-27T17:41:10.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Orden.cs",
+              "DocumentMoniker": "E:\\Tarea_5y6\\MiAppCrud\\MiAppCrud\\Models\\Orden.cs",
+              "RelativeDocumentMoniker": "MiAppCrud\\Models\\Orden.cs",
+              "ToolTip": "E:\\Tarea_5y6\\MiAppCrud\\MiAppCrud\\Models\\Orden.cs",
+              "RelativeToolTip": "MiAppCrud\\Models\\Orden.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T16:57:52.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OrdenEditPage.xaml.cs",
+              "DocumentMoniker": "E:\\Tarea_5y6\\MiAppCrud\\MiAppCrud\\Views\\OrdenEditPage.xaml.cs",
+              "RelativeDocumentMoniker": "MiAppCrud\\Views\\OrdenEditPage.xaml.cs",
+              "ToolTip": "E:\\Tarea_5y6\\MiAppCrud\\MiAppCrud\\Views\\OrdenEditPage.xaml.cs",
+              "RelativeToolTip": "MiAppCrud\\Views\\OrdenEditPage.xaml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAASwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T18:05:42.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CategoriaListPage.xaml",
+              "DocumentMoniker": "E:\\Tarea_5y6\\MiAppCrud\\MiAppCrud\\Views\\CategoriaListPage.xaml",
+              "RelativeDocumentMoniker": "MiAppCrud\\Views\\CategoriaListPage.xaml",
+              "ToolTip": "E:\\Tarea_5y6\\MiAppCrud\\MiAppCrud\\Views\\CategoriaListPage.xaml",
+              "RelativeToolTip": "MiAppCrud\\Views\\CategoriaListPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-27T17:05:49.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "E:\\Tarea_5y6\\MiAppCrud\\MiAppCrud\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "MiAppCrud\\Models\\Producto.cs",
+              "ToolTip": "E:\\Tarea_5y6\\MiAppCrud\\MiAppCrud\\Models\\Producto.cs",
+              "RelativeToolTip": "MiAppCrud\\Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T16:56:39.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProductoEditPage.xaml.cs",
+              "DocumentMoniker": "E:\\Tarea_5y6\\MiAppCrud\\MiAppCrud\\Views\\ProductoEditPage.xaml.cs",
+              "RelativeDocumentMoniker": "MiAppCrud\\Views\\ProductoEditPage.xaml.cs",
+              "ToolTip": "E:\\Tarea_5y6\\MiAppCrud\\MiAppCrud\\Views\\ProductoEditPage.xaml.cs",
+              "RelativeToolTip": "MiAppCrud\\Views\\ProductoEditPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T17:09:52.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Proveedor.cs",
+              "DocumentMoniker": "E:\\Tarea_5y6\\MiAppCrud\\MiAppCrud\\Models\\Proveedor.cs",
+              "RelativeDocumentMoniker": "MiAppCrud\\Models\\Proveedor.cs",
+              "ToolTip": "E:\\Tarea_5y6\\MiAppCrud\\MiAppCrud\\Models\\Proveedor.cs",
+              "RelativeToolTip": "MiAppCrud\\Models\\Proveedor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T16:58:10.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "OrdenListPage.xaml.cs",
+              "DocumentMoniker": "E:\\Tarea_5y6\\MiAppCrud\\MiAppCrud\\Views\\OrdenListPage.xaml.cs",
+              "RelativeDocumentMoniker": "MiAppCrud\\Views\\OrdenListPage.xaml.cs",
+              "ToolTip": "E:\\Tarea_5y6\\MiAppCrud\\MiAppCrud\\Views\\OrdenListPage.xaml.cs",
+              "RelativeToolTip": "MiAppCrud\\Views\\OrdenListPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T18:00:45.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProveedorListPage.xaml.cs",
+              "DocumentMoniker": "E:\\Tarea_5y6\\MiAppCrud\\MiAppCrud\\Views\\ProveedorListPage.xaml.cs",
+              "RelativeDocumentMoniker": "MiAppCrud\\Views\\ProveedorListPage.xaml.cs",
+              "ToolTip": "E:\\Tarea_5y6\\MiAppCrud\\MiAppCrud\\Views\\ProveedorListPage.xaml.cs",
+              "RelativeToolTip": "MiAppCrud\\Views\\ProveedorListPage.xaml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T18:00:16.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CategoriaListPage.xaml.cs",
+              "DocumentMoniker": "E:\\Tarea_5y6\\MiAppCrud\\MiAppCrud\\Views\\CategoriaListPage.xaml.cs",
+              "RelativeDocumentMoniker": "MiAppCrud\\Views\\CategoriaListPage.xaml.cs",
+              "ToolTip": "E:\\Tarea_5y6\\MiAppCrud\\MiAppCrud\\Views\\CategoriaListPage.xaml.cs",
+              "RelativeToolTip": "MiAppCrud\\Views\\CategoriaListPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T17:05:57.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProveedorController.cs",
+              "DocumentMoniker": "E:\\Tarea_5y6\\MiAppCrud\\MiAppCrud\\Controllers\\ProveedorController.cs",
+              "RelativeDocumentMoniker": "MiAppCrud\\Controllers\\ProveedorController.cs",
+              "ToolTip": "E:\\Tarea_5y6\\MiAppCrud\\MiAppCrud\\Controllers\\ProveedorController.cs",
+              "RelativeToolTip": "MiAppCrud\\Controllers\\ProveedorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T17:37:41.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "OrdenController.cs",
+              "DocumentMoniker": "E:\\Tarea_5y6\\MiAppCrud\\MiAppCrud\\Controllers\\OrdenController.cs",
+              "RelativeDocumentMoniker": "MiAppCrud\\Controllers\\OrdenController.cs",
+              "ToolTip": "E:\\Tarea_5y6\\MiAppCrud\\MiAppCrud\\Controllers\\OrdenController.cs",
+              "RelativeToolTip": "MiAppCrud\\Controllers\\OrdenController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T17:38:12.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "OrdenService.cs",
+              "DocumentMoniker": "E:\\Tarea_5y6\\MiAppCrud\\MiAppCrud\\Services\\OrdenService.cs",
+              "RelativeDocumentMoniker": "MiAppCrud\\Services\\OrdenService.cs",
+              "ToolTip": "E:\\Tarea_5y6\\MiAppCrud\\MiAppCrud\\Services\\OrdenService.cs",
+              "RelativeToolTip": "MiAppCrud\\Services\\OrdenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T17:37:04.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ProveedorService.cs",
+              "DocumentMoniker": "E:\\Tarea_5y6\\MiAppCrud\\MiAppCrud\\Services\\ProveedorService.cs",
+              "RelativeDocumentMoniker": "MiAppCrud\\Services\\ProveedorService.cs",
+              "ToolTip": "E:\\Tarea_5y6\\MiAppCrud\\MiAppCrud\\Services\\ProveedorService.cs",
+              "RelativeToolTip": "MiAppCrud\\Services\\ProveedorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T17:35:24.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "E:\\Tarea_5y6\\MiAppCrud\\MiAppCrud\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "MiAppCrud\\Controllers\\ProductoController.cs",
+              "ToolTip": "E:\\Tarea_5y6\\MiAppCrud\\MiAppCrud\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "MiAppCrud\\Controllers\\ProductoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T17:03:24.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CategoriaController.cs",
+              "DocumentMoniker": "E:\\Tarea_5y6\\MiAppCrud\\MiAppCrud\\Controllers\\CategoriaController.cs",
+              "RelativeDocumentMoniker": "MiAppCrud\\Controllers\\CategoriaController.cs",
+              "ToolTip": "E:\\Tarea_5y6\\MiAppCrud\\MiAppCrud\\Controllers\\CategoriaController.cs",
+              "RelativeToolTip": "MiAppCrud\\Controllers\\CategoriaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T17:05:07.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DataBase.cs",
+              "DocumentMoniker": "E:\\Tarea_5y6\\MiAppCrud\\MiAppCrud\\Services\\DataBase.cs",
+              "RelativeDocumentMoniker": "MiAppCrud\\Services\\DataBase.cs",
+              "ToolTip": "E:\\Tarea_5y6\\MiAppCrud\\MiAppCrud\\Services\\DataBase.cs",
+              "RelativeToolTip": "MiAppCrud\\Services\\DataBase.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T16:59:09.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CategoriaEditPage.xaml.cs",
+              "DocumentMoniker": "E:\\Tarea_5y6\\MiAppCrud\\MiAppCrud\\Views\\CategoriaEditPage.xaml.cs",
+              "RelativeDocumentMoniker": "MiAppCrud\\Views\\CategoriaEditPage.xaml.cs",
+              "ToolTip": "E:\\Tarea_5y6\\MiAppCrud\\MiAppCrud\\Views\\CategoriaEditPage.xaml.cs",
+              "RelativeToolTip": "MiAppCrud\\Views\\CategoriaEditPage.xaml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T17:09:50.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CategoriaEditPage.xaml",
+              "DocumentMoniker": "E:\\Tarea_5y6\\MiAppCrud\\MiAppCrud\\Views\\CategoriaEditPage.xaml",
+              "RelativeDocumentMoniker": "MiAppCrud\\Views\\CategoriaEditPage.xaml",
+              "ToolTip": "E:\\Tarea_5y6\\MiAppCrud\\MiAppCrud\\Views\\CategoriaEditPage.xaml",
+              "RelativeToolTip": "MiAppCrud\\Views\\CategoriaEditPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-27T17:07:44.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CategoriaService.cs",
+              "DocumentMoniker": "E:\\Tarea_5y6\\MiAppCrud\\MiAppCrud\\Services\\CategoriaService.cs",
+              "RelativeDocumentMoniker": "MiAppCrud\\Services\\CategoriaService.cs",
+              "ToolTip": "E:\\Tarea_5y6\\MiAppCrud\\MiAppCrud\\Services\\CategoriaService.cs",
+              "RelativeToolTip": "MiAppCrud\\Services\\CategoriaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T17:01:51.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ProductoService.cs",
+              "DocumentMoniker": "E:\\Tarea_5y6\\MiAppCrud\\MiAppCrud\\Services\\ProductoService.cs",
+              "RelativeDocumentMoniker": "MiAppCrud\\Services\\ProductoService.cs",
+              "ToolTip": "E:\\Tarea_5y6\\MiAppCrud\\MiAppCrud\\Services\\ProductoService.cs",
+              "RelativeToolTip": "MiAppCrud\\Services\\ProductoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T17:00:45.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "E:\\Tarea_5y6\\MiAppCrud\\MiAppCrud\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "MiAppCrud\\Models\\Categoria.cs",
+              "ToolTip": "E:\\Tarea_5y6\\MiAppCrud\\MiAppCrud\\Models\\Categoria.cs",
+              "RelativeToolTip": "MiAppCrud\\Models\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T16:59:49.605Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

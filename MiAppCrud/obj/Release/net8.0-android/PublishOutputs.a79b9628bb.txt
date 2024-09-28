@@ -1,0 +1,4 @@
+E:\Tarea_5y6\MiAppCrud\MiAppCrud\bin\Release\net8.0-android\publish\com.companyname.miappcrud-Signed.aab
+E:\Tarea_5y6\MiAppCrud\MiAppCrud\bin\Release\net8.0-android\publish\com.companyname.miappcrud.aab
+E:\Tarea_5y6\MiAppCrud\MiAppCrud\bin\Release\net8.0-android\publish\com.companyname.miappcrud-Signed.apk
+E:\Tarea_5y6\MiAppCrud\MiAppCrud\bin\Release\net8.0-android\publish\_Microsoft.Android.Resource.Designer.dll
